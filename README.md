@@ -1,5 +1,5 @@
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/peternguyew)
-[![GitHub tag](https://img.shields.io/github/tag/kobenguyent/codeceptjs-failure-logger?include_prereleases=&sort=semver&color=green)](https://github.com/kobenguyent/codeceptjs-loggers-plugin/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/kobenguyent/codeceptjs-failure-logger?include_prereleases=&sort=semver&color=green)](https://github.com/kobenguyent/codeceptjs-failure-logger/releases/)
 
 ## CodeceptJS Failure Logger
 
