@@ -25,6 +25,11 @@
   "homepage": "https://github.com/kobenguyent/codeceptjs-failure-logger#readme",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "devDependencies": {
     "@commitlint/cli": "11.0.0",
     "@commitlint/config-conventional": "11.0.0",
@@ -43,17 +48,16 @@
     "ts-node": "^10.5.0"
   },
   "files": [
-    "dist/*"
+    "dist/*",
+    "README.md"
   ],
   "peerDependencies": {
     "codeceptjs": "^3.4.1"
   },
   "dependencies": {
-    "axios": "^0.21.1",
     "chalk": "^4.1.0",
     "expect": "^29.5.0",
     "format-json": "^1.0.3",
-    "tinyurl": "^1.1.4",
     "typescript": "^4.5.5"
   },
   "config": {
